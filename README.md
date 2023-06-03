@@ -32,8 +32,7 @@
     <li><code>script.js</code>: The JavaScript file containing the game logic and AI bot implementation.</li>
   </ul>
 
-  <h2>License</h2>
-
+  <h2>License📖</h2>
   <p>This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.</p>
 </body>
 </html>
