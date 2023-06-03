@@ -4,7 +4,7 @@
 </head>
 <body>
   <h1>Tic-Tac-Toe Bot</h1>
-  <p>Live Demo link: https://thestevendev.github.io/Tris-AI/</p>
+  <p>Live Demo link: https://thestevendev.github.io/TicTacToe-AI/</p>
   <p>This is a simple Tic-Tac-Toe game with an AI bot implemented in JavaScript. The bot uses the Minimax algorithm to make intelligent moves and plays against a human player.</p>
 
   <h2>How to Play</h2>
